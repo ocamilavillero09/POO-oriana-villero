@@ -14,7 +14,8 @@ class Punto:
         self.x = x
         self.y = y
         self.distancia= distancia
-        
+
+#punto 3
     def mostar(self,x,y):
         print (x,y)
         
